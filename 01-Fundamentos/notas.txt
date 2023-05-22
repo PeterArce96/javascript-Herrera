@@ -1,0 +1,8 @@
+// el console es el objeto y log() es el metodo
+// Si colocamos el argumento entre llaves, nos muestra un objeto con su valor
+
+// JS es un lenguaje interpretado, porque el navegador va ejecutar las líneas en forma secuencial.
+
+//var --> forma antigua de crear variables
+
+// Polyfill --> código que provee el funcionamiento de una  nueva característica de Javascript(ES6), en versiones viejas como ES5 (funcion flecha, clases, etc), código que permite utilizar características modernas en versiones vieja de JS.

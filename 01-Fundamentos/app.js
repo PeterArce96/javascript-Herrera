@@ -1,8 +1,4 @@
-// console.log("Hola Mundo");
-
-//var --> forma antigua de crear variables
-
-// Polyfill --> código que provee el funcionamiento de una  nueva característica de Javascript(ES6), en versiones viejas como ES5 (funcion flecha, clases, etc), código que permite utilizar características modernas en versiones vieja de JS.
+console.log("Hola Mundo");
 
 let a = 10, 
     b = 20, 
@@ -20,11 +16,8 @@ let f = 'Spiderman';
 
 console.table({a,b,c,d,x,e,f});
 
-const saludo = e + f; //concatena
+const saludo = e + f;
 
 console.log(saludo)
 
-// el console es el objeto y log() es el metodo
-// Si colocamos el argumento entre llaves, nos muestra un objeto con su valor
-
-// JS es un lenguaje interpretado, porque el navegador va ejecutar las líneas en forma secuencial.
+c = 'Hola de nuevo';
